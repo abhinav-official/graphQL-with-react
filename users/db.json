@@ -17,10 +17,28 @@
       "firstName": "dadd",
       "age": 28,
       "companyId": "2"
+    },
+    {
+      "firstName": "AbhinavJha",
+      "age": 21,
+      "id": "9gkUfgG"
+    },
+    {
+      "firstName": "Abhinav",
+      "age": 21,
+      "id": "h~OfOrf"
     }
   ],
   "companies": [
-    { "id": "1", "name": "Apple", "description": "iphone" },
-    { "id": "2", "name": "Google", "description": "Search" }
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Search"
+    }
   ]
 }
